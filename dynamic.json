@@ -1,0 +1,49 @@
+{
+	"profile":{
+		"Image":"pic2.jpg",
+		"Name":"Aruhya",
+		"RollNo":"17A31A0529",
+		"Place":"Kakinada",
+		"Gmail":"srimanthulaaruhya@gmail.com"
+	},
+	"career":{
+		"Info":"I want to seek a position where i can utilize my knowledge and skills"
+	},
+	"education":[
+		{
+		"Sno":"1.",
+		"Degree":"BTech",
+		"Institute":"Pragati",
+		"Percentage":"95%",
+		"Yop":"2021"
+	    },
+	    {
+	    "Sno":"2.",
+		"Degree":"Intermediate",
+		"Institute":"Narayana",
+		"Percentage":"90%",
+		"Yop":"2017"
+	    },
+	    {
+	    "Sno":"3.",
+		"Degree":"SSC",
+		"Institute":"Sri chaitanya",
+		"Percentage":"95%",
+		"Yop":"2016"
+	    }
+	],
+	"languages":[
+		{
+			"Lang":"English"
+		},
+		{
+			"Lang":"Telegu"
+		},
+		{
+			"Lang":"Hindi"
+		},
+		{
+			"Lang":"Tamil"
+		}
+	]
+}

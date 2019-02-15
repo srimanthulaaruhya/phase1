@@ -1,0 +1,127 @@
+/*desktop view*/
+.maindiv
+{
+	background: #74DA53;
+	display: flex;
+	justify-content: space-around;
+	margin: 5%;
+	border-radius: 2%;
+	
+}
+.subdiv
+{
+	background: #23DEE9;
+	margin: 5%;
+	width: 30%;
+	height: 500px;
+	text-align: center;
+	border-radius: 5%;
+	box-shadow: 4px 4px 4px 4px;
+
+}
+.subdiv1
+{
+	background: lightsalmon;
+	margin: 10%;
+	width: 90%;
+	height: 800px;
+	border-radius: 5%;
+	box-shadow: 4px 4px 4px 4px;
+	padding: 3%;
+}
+img 
+{
+	height: 40%;
+	width: 80%;
+	margin: 5%;
+}
+/*mobileview*/
+@media screen and (min-width: 320px) and (max-width: 480px){
+.maindiv
+{
+	background: #23DEE9;
+	display: inline-block;
+	justify-content: space-around;
+	margin: 2%;
+	border-radius: 2%;
+	width: 350px;
+	padding: 2%;
+	
+}
+.subdiv
+{
+	background: #74DA53;
+	display: inline-block;
+	margin: 5%;
+	width: 300px;
+	height: 500px;
+	text-align: center;
+	border-radius: 5%;
+	box-shadow: 4px 4px 4px 4px;
+	padding: 2%;
+
+}
+.subdiv1
+{
+	background: lightsalmon;
+	margin: 0%;
+	width: 340px;
+	height: 800px;
+	border-radius: 5%;
+	box-shadow: 4px 4px 4px 4px;
+	padding: 1%;
+	word-wrap: break-word;
+}
+img 
+{
+	height: 40%;
+	width: 80%;
+	margin: 5%;
+}
+table
+{
+	overflow-x: auto;
+}
+}
+/*tab view*/
+@media screen and (min-width: 481px) and (max-width: 680px){
+.maindiv
+{
+	background: #23DEE9;
+	display: inline-block;
+	justify-content: space-around;
+	margin: 0%;
+	border-radius: 2%;
+	width: 480px;
+	padding: 1%;
+	
+}
+.subdiv
+{
+	background: #5CEAF2;
+    margin: 5%;
+	width: 350px;
+	height: 400px;
+	text-align: center;
+	border-radius: 5%;
+	box-shadow: 4px 4px 4px 4px;
+	padding: 2%;
+
+}
+.subdiv1
+{
+	background: lightsalmon;
+	margin: 2%;
+	width: 400;
+	height: 800px;
+	border-radius: 5%;
+	box-shadow: 4px 4px 4px 4px;
+	padding: 2%;
+	
+}
+img 
+{
+	height: 40%;
+	width: 80%;
+	margin: 5%;
+}
